@@ -1,4 +1,4 @@
-# 🙅 Christofer Alberto Pfeiffer
+# 🙅🏻‍♂️ Christofer Alberto Pfeiffer
 
 **`Desenvolvedor FullStack`**
 
@@ -25,6 +25,14 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 17 anos e sou natural de Santa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<!-- <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -103,6 +111,14 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 17 anos e sou natural de Santa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>      -->
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -111,14 +127,6 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 17 anos e sou natural de Santa
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
