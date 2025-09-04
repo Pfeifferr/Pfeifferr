@@ -32,7 +32,7 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 17 anos e sou natural de Santa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<!-- <img 
+<img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -40,7 +40,7 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 17 anos e sou natural de Santa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
