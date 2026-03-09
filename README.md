@@ -2,9 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Me chamo Christofer Alberto Pfeiffer, tenho 18 anos e sou natural de Santa Catarina. Sou estudante de Engenharia de Software na Anhanguera Educacional e técnico em Desenvolvimento de Sistemas pelo SENAI/SC.
+Olá! Me chamo Christofer Alberto Pfeiffer, tenho 18 anos e sou de Santa Catarina. Sou estudante de Engenharia de Software pela Anhanguera Educacional e técnico em Desenvolvimento de Sistemas pelo SENAI/SC.
 
-Sou entusiasta da tecnologia e estou sempre em busca de novos aprendizados na área de programação e desenvolvimento de software.
+Tenho interesse em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos através de estudos e projetos práticos. Atualmente trabalho com tecnologias como Python, Django, SQL, HTML, CSS, JavaScript e Git/GitHub.
+
+Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento web e engenharia de software.
 
 ---
 
