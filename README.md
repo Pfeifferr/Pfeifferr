@@ -23,7 +23,7 @@ Tecnologias utilizadas: Python, Django, MySQL, HTML e CSS.
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🧠 Linguagens e Tecnologias
 
 ### 🚀 Tecnologias que uso
 <img 
