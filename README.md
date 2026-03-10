@@ -133,7 +133,7 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 /><br>
-## 📚 Já tive contato
+### 📚 Já tive contato
 <img 
     align="left" 
     alt="Java" 
@@ -141,6 +141,14 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <br/>
