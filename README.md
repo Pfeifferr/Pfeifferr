@@ -12,7 +12,7 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
 
 ### 🤖 Linguagens e Tecnologias
 
-## 🚀 Tecnologias que uso
+# 🚀 Tecnologias que uso
 <img 
     align="left" 
     alt="HTML"
