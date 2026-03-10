@@ -12,6 +12,7 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
 
 ### 🤖 Linguagens e Tecnologias
 
+## 🚀 Tecnologias que uso
 <img 
     align="left" 
     alt="HTML"
@@ -27,14 +28,6 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -140,5 +133,15 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+## 📚 Já tive contato
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 <br/>
 <br/>
