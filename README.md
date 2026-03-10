@@ -132,7 +132,7 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+/><br>
 ## 📚 Já tive contato
 <img 
     align="left" 
