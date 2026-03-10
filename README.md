@@ -19,7 +19,7 @@ Aplicação web desenvolvida para controlar a distribuição e o histórico de E
 Tecnologias utilizadas: Python, Django, MySQL, HTML e CSS.
 
 📂 **Ver projeto no GitHub:**  
-🔗https://github.com/Pfeifferr/epi-management-system.git
+[![Ver no GitHub](https://img.shields.io/badge/GitHub-Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Pfeifferr/epi-management-system.git)
 
 ---
 
