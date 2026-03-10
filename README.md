@@ -10,6 +10,18 @@ Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento 
 
 ---
 
+## 🚀 Projetos em destaque
+
+### Sistema de Gerenciamento de EPI
+
+Aplicação web desenvolvida para controlar a distribuição e o histórico de Equipamentos de Proteção Individual em ambiente industrial.
+
+Tecnologias utilizadas: Python, Django, MySQL, HTML e CSS.
+
+🔗 Repositório: src="https://github.com/Pfeifferr/epi-management-system.git"
+
+---
+
 ## 🤖 Linguagens e Tecnologias
 
 ### 🚀 Tecnologias que uso
