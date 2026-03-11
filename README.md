@@ -4,7 +4,7 @@
 
 Olá! Me chamo Christofer Alberto Pfeiffer, tenho 18 anos e sou de Santa Catarina. Sou estudante de Engenharia de Software pela Anhanguera Educacional e técnico em Desenvolvimento de Sistemas pelo SENAI/SC.
 
-Tenho interesse em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos através de estudos e projetos práticos. Atualmente trabalho com tecnologias como Python, Django, SQL, HTML, CSS e Git/GitHub.
+Tenho interesse em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos através de estudos e projetos práticos. Atualmente trabalho com tecnologias como Python, Django, JavaScript, SQL, HTML, CSS e Git/GitHub.
 
 Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento web e engenharia de software.
 
