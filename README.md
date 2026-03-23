@@ -6,7 +6,7 @@ Olá! Me chamo Christofer Alberto Pfeiffer, tenho 18 anos e sou de Santa Catarin
 
 Tenho interesse em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos através de estudos e projetos práticos. Atualmente trabalho com tecnologias como Python, Django, JavaScript, SQL, HTML, CSS, e Git/GitHub.
 
-Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento web e engenharia de software.
+Busco evoluir na área de desenvolvimento, com foco em backend, desenvolvimento web e engenharia de software, com ênfase em banco de dados, modelagem, manipulação e análise de dados, além da aplicação de boas práticas de arquitetura, performance e escalabilidade.
 
 ---
 
